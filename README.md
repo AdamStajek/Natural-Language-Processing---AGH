@@ -1,4 +1,3 @@
 # Natural-Language-Processing---AGH---Project-01
-This if the first project for AGH Natural Language Processing Classes.  
-Link to the project report:  
-[Overleaf](https://www.overleaf.com/read/qgmgxqmytfrb#82f793)
+This if the first and third project for AGH Natural Language Processing Classes.  
+Code and reports of each project is available in dedicated subfolder.
